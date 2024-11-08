@@ -27,7 +27,7 @@
     width: 20%;
 }
 
-.logo img{
+.logo {
     width: 200px;
     cursor: pointer;
 }
@@ -66,14 +66,14 @@
     text-align: center;
 }
 
-.logo1 img{
+.logo1 {
     width: 200px;
     float: right;
     position: relative;
     display: inline-block;
 }
 
-.logo4 img{
+.logo4 {
     width: 1080px;
 }
 
